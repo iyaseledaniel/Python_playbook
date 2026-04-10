@@ -1,0 +1,4 @@
+Name: daniel, Email: steve@gmail.com, Age: 12
+Name: ben, Email: ben@gmail.com, Age: 27
+Name: daniel, Email: daniel@gmail.com, Age: 23
+Name: dan, Email: dan@gmail.com, Age: 45

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "daniel",
+        "class": "ss3",
+        "maths": "50",
+        "eng": "64",
+        "sci": "40"
+    },
+    {
+        "name": "stella",
+        "class": "ss2",
+        "maths": "45",
+        "eng": "56",
+        "sci": "45"
+    }
+]

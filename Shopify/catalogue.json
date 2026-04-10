@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "name": "Handbag",
+      "price": 15000,
+      "quantity": 30
+    },
+    {
+      "name": "addidas_slide",
+      "price": 25000,
+      "quantity": 50
+    },
+    {
+      "name": "Nike_slide",
+      "price": 15000,
+      "quantity": 69
+    },
+    {
+      "name": "Sandals",
+      "price": 8000,
+      "quantity": 54
+    },
+    {
+      "name": "T-shirt",
+      "price": 5000,
+      "quantity": 150
+    }
+  ]
+}

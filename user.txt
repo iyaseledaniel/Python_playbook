@@ -1,0 +1,7 @@
+<__main__.Twitter object at 0x00000233957B8C20>
+<__main__.Twitter object at 0x00000233957A8F50>
+[<__main__.Twitter object at 0x000001B452018C20>]
+[<__main__.Twitter object at 0x000001B452018C20>, <__main__.Twitter object at 0x000001B452008F50>]
+<__main__.Twitter object at 0x000001C19AB18C20>
+<__main__.Twitter object at 0x000001C19AB08E10>
+None

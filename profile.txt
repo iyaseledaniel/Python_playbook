@@ -1,0 +1,9 @@
+Profile: daniel,iyaselealfred007@gmail.com,34
+Profile: steph,iyaselesteph@yahoo.com,45
+Profile: daniel,alfred007@gmail.com,34
+Profile: stella,stella@gmail.com,23
+Profile: any,anny@gmail.com,12
+Profile: maggy,maggy@gmail.com,35
+Profile: kels,kel@gmail.com,35
+Profile: steve,steve@gmail.com,23
+Profile: steve,steve@yahoo.org,23
