@@ -1,20 +1,14 @@
 [
     {
-        "name": "dan",
+        "name": "stella",
+        "item": "Handbag",
+        "quantity": 30,
+        "time": "2026-04-10 07:42"
+    },
+    {
+        "name": "ann",
         "item": "Handbag",
         "quantity": 20,
-        "time": "2026-04-06 05:10"
-    },
-    {
-        "name": "dan",
-        "item": "Handbag",
-        "quantity": 23,
-        "time": "2026-04-06 05:10"
-    },
-    {
-        "name": "dan",
-        "item": "T-shirt",
-        "quantity": 10,
-        "time": "2026-04-06 05:10"
+        "time": "2026-04-10 07:42"
     }
 ]

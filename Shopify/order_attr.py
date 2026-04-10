@@ -1,5 +1,6 @@
 """File contains class and methods for shopify
    This is meant for just processing users orders, display their orders and update catalogue
+   Catalogue does not update at the moment.
 """
 import os.path
 import json
@@ -76,6 +77,7 @@ class Order:
                                         json.dump(order_list , order_file,
                                                   indent=4)  # store user order as dict appended to a list
                                         sleep(0.5)
+                                        self.quantity -= quantity
                                         print("Order placed successfully")
                                 except Exception as e:
                                     print(e)
